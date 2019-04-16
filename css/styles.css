@@ -23,15 +23,13 @@ http://www.bootstrapzero.com
 
 
 
-<<<<<<< HEAD
-=======
 #p_prldr{
 position: fixed;
 left: 0;
 top: 0;
 right:0;
 bottom:0;
-background: #9A12B3;
+background: #6C6C6C;
 z-index: 30;}
  
 .contpre small{font-size:25px;}
@@ -53,15 +51,10 @@ line-height:35px;}
 position: absolute;
 width: 41px;
 height: 41px;
-<<<<<<< HEAD
-background: url(assets/tail-spin.svg) center center no-repeat;
-=======
 background: url(../assets/Flickr-1s-200px.svg) center center no-repeat;
->>>>>>> parent of fd5d434... Revert "3"
 background-size:41px;    
 margin: -16px 0 0 -16px;}
 
->>>>>>> parent of 47e64ea... 3
 html,
 body {
     width: 100%;
