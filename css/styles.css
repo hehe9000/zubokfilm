@@ -29,7 +29,7 @@ left: 0;
 top: 0;
 right:0;
 bottom:0;
-background: #6C6C6C;
+background: #9A12B3;
 z-index: 30;}
  
 .contpre small{font-size:25px;}
@@ -51,7 +51,7 @@ line-height:35px;}
 position: absolute;
 width: 41px;
 height: 41px;
-background: url(../assets/Wedges-3s-200px.svg) center center no-repeat;
+background: url(assets/tail-spin.svg) center center no-repeat;
 background-size:41px;    
 margin: -16px 0 0 -16px;}
 
